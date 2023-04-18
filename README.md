@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Toonba
-- 👀 I’m interested in Blockchain, gaming and Manga
-- 🌱 I’m currently learning the basic of how to code a website
-- 💞️ I’m looking to collaborate on whatever you want 
+Hi, I’m @Toonba, I'm a graduate of master's degree in chemistry who decided to change is career path to learn how to code. 
 
-
-<!---
-Toonba/Toonba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I learned to code thank to this class [OpenClassroom JavaScript - react developper class](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) 
